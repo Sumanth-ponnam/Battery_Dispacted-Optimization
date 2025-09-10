@@ -1,7 +1,4 @@
 """
-Battery Dispatch Optimization with ML
-Feb 2024 – Mar 2024
-PyTorch, Forecasting, System Simulation
 
 Built ML forecasting models to optimize real-time dispatch under uncertainty, 
 improving system efficiency by 12%. Ran simulation stress scenarios to identify 
