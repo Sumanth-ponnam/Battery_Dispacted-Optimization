@@ -1,5 +1,4 @@
 Battery Dispatch Optimization with ML
-Project Timeline: Feb 2024 – Mar 2024
 Technologies: PyTorch, Forecasting, System Simulation
 📋 Project Overview
 Built ML forecasting models to optimize real-time battery dispatch under uncertainty, improving system efficiency by 12%. Ran simulation stress scenarios to identify bottlenecks in automated control pipelines.
