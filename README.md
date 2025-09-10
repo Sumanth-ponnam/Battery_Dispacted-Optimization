@@ -153,12 +153,5 @@ Market Integration: Real-time price feeds
 Degradation Modeling: Battery health optimization
 Uncertainty Quantification: Probabilistic forecasting
 
-📞 Support
-For questions or issues:
-
-Check the code comments for implementation details
-Review the visualization outputs for performance insights
-Modify parameters in the main function for different scenarios
-
 📄 License
 This project is for educational and research purposes. Please ensure appropriate licensing for commercial use.
